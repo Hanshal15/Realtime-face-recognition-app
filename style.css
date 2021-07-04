@@ -1,0 +1,20 @@
+.head {
+    width: 100%;
+    font-size: 20px;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray;
+    text-align: center;
+}
+
+.head_div {
+    float: none;
+    padding: 10px;
+    border-radius: 20;
+    color: black;
+    box-shadow: 5px 5px 5px gray;
+    background-color: rgb(255, 255, 255);
+}
+
+.head_div_2 {
+    font-size: 18px;
+}
