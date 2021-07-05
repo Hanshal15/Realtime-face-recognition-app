@@ -1,20 +1,40 @@
-.head {
+.heading {
+    font-size: 23px;
     width: 100%;
-    font-size: 20px;
     margin: 0px;
     box-shadow: 5px 5px 5px gray;
-    text-align: center;
 }
 
 .head_div {
     float: none;
+    background-color: honeydew;
     padding: 10px;
-    border-radius: 20;
     color: black;
     box-shadow: 5px 5px 5px gray;
-    background-color: rgb(255, 255, 255);
 }
 
 .head_div_2 {
     font-size: 18px;
+}
+
+.para {
+    box-shadow: 5px 5px 5px gray;
+    font-size: 20px;
+}
+
+.copyright_footer {
+    position: fixed;
+    color: honeydew;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas {
+    border: 5px solid black;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    margin-top: 150px;
 }
